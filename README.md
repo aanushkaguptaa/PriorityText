@@ -6,7 +6,7 @@
 ## Overview  
 
 **Priority Text** is a versatile API that combines state-of-the-art spam detection with intelligent text summarization capabilities. It ensures clean, efficient communication by identifying unwanted messages and generating concise summaries, making it an indispensable tool for modern applications.  
-**Access it here**: [Priority Text API Webpage](https://prioritytext-api.onrender.com/)  
+**Access it here**: [Priority Text API Webpage](https://spam-no-more.onrender.com)  
 
 ---  
 
